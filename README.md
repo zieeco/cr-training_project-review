@@ -11,7 +11,7 @@ This project is from the Microverse curriculum. its main aim focuses on letting 
 
 ## Live Demo
 
-<!-- [Live Demo Link](https://zieeco.github.io/project-review-test/) -->
+[Live Demo Link](https://zieeco.github.io/cr-training_project-review/)
 
 ## Getting Started
 
